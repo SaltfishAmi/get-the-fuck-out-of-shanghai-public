@@ -89,7 +89,7 @@ May 17th to present[3].
 
 News reports stated that on May 17th, the number of people leaving Shanghai from Hongqiao Station (上海虹桥站) skyrocketed from 1,000 people per day to 7,000. Tickets were hard to get, but they had always been; what's harder was hailing a cab: On May 11th, I tried calling the Dazhong Taxi (大众出租车) hotline 021-96822 to book a car, and the call connected quickly. The person on the line readily said a car could be booked, but at that time I didn't have a train ticket or a pass to go out, so I just asked and then hung up. When I tried again on May 17th, from 11 a.m. to 5:30 p.m., I finally got through once (meanwhile, I received a text message saying "Your voice call charges outside of your monthly plan have exceeded 20 yuan"), but still failed to successfully book a ride. I believe this phenomenon clearly indicates the increase in the number of people trying to escape Shanghai who have managed to get train tickets and neighborhood passes to leave. The number of train tickets is also obviously increasing; now (as of May 23rd), there are about 20 trains per day from Shanghai to Nanjing, and some trains even have immediate availability without the need for waitlisting.
 
-In "Amap" (Gaode Map, 高德地图), when you drag the map to the vicinity of Hongqiao Airport (虹桥机场), you can see a group called "Hongqiao Airport Information Mutual Aid" (虹桥机场信息互助) where various pieces of information are shared, but overall, there are more people asking questions than sharing experiences. As the number of people escaping Shanghai continues to rise, the phychiatric issues some of them face are gradually coming to light...
+In "Amap" (Gaode Map, 高德地图), when you drag the map to the vicinity of Hongqiao Airport (虹桥机场), you can see a group called "Hongqiao Airport Information Mutual Aid" (虹桥机场信息互助) where various pieces of information are shared, but overall, there are more people asking questions than sharing experiences. As the number of people escaping Shanghai continues to rise, the psychiatric issues some of them face are gradually coming to light...
 
 > ![Really want a date](./img/02-madness.jpg)
 > 
@@ -119,7 +119,7 @@ The future is full of uncertainties. Just like the negative PCR test report for 
 >
 > During a live online class in a Shanghai elementary school, a teacher told the children: "Don't worry, Shanghai is an international metropolis and a model for epidemic prevention. The whole country is supporting us, and currently, we have ample supplies and good medical security."
 >
-> The Shanghaiese children below happily exclaimed: "**Yay! I want to go to Shanghai!!**"
+> The children happily exclaimed: "**Yay! I want to go to Shanghai!!**"
 
 #### The Madness for Tickets
 
