@@ -401,7 +401,7 @@ I saw some people sleeping on the roadside with blankets spread out. Following t
 
 > [26] Two big companies, Meituan (美团外卖) and Eleme (饿了么外卖), provide most of the food delivery services in China. The deliverymen usually wear uniforms as required by companies, and ride on their own electric bikes to deliver. Meituan's theme color is yellow, and Eleme's theme color is blue.
 
-#### Dining the Night Breeze and Sleeping Under the Stars
+#### Dining the Night Breeze and Showering in the "Rain"
 
 At the intersection, the lady on the bicycle informed us that the way ahead to the station was blocked. It seemed unnecessary for her to lie about it, and seeing that this makeshift camp was quite large, with three or four blankets spread out on the ground and about a dozen people, I decided to rest here for the night. This place was under an overpass, with a sizable green space, although most people didn't venture far into it, congregating instead on the sidewalk and under the bridge. I pushed my luggage onto the green space, ate an apple I brought, drank some water, and then settled under the bridge, arranging my suitcases into a makeshift personal territory.
 
